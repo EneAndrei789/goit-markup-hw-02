@@ -44,7 +44,6 @@ body {
   
   .section-order {
     background-color: #2e2f42;
-    color: #fff;
   }
   
   .order-button {
@@ -58,11 +57,12 @@ body {
     letter-spacing: 0.04em;
   }
   
-  .section-order-title {
+  .section-heading {
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 0.02em;
     text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
   }
   
   .order-button:hover,
